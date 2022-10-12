@@ -1,6 +1,3 @@
-
-
-
 # picoCTF VaultDoor5 SABIR Yassine
 
 def int2bin(n):
