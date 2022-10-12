@@ -40,5 +40,5 @@ for i in range(16,24):
 for i in range(24,32):
     flag += List[i]
 
-print(flag)
+print(flag)#jU5t_4_bUnCh_0f_bYt3s_f4a8cd8f7e
 
