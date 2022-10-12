@@ -1,5 +1,5 @@
 
-#picoCTF Yassine SABIR < id = YsaB >
+#picoCTF Yassine SABIR 
 
 import cv2
 import numpy as np
