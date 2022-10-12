@@ -1,5 +1,5 @@
 
-#picoCTF VaultDoor4 Yassine SABIR <id = YsaB>
+#picoCTF VaultDoor4 Yassine SABIR
 
 
 def Hex2int(ch):
