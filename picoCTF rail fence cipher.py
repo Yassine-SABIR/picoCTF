@@ -56,4 +56,4 @@ while first_ligne!=[] or second_ligne!=[] or third_ligne!=[] or forth_ligne!=[]:
         flag += second_ligne[0]
         second_ligne = second_ligne[1:]
 
-print(flag)  # The flag is: WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_4A76B997
+print(flag)  #WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_4A76B997
