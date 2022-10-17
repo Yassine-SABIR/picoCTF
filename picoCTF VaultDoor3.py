@@ -18,4 +18,11 @@ def decode(ch):
 
     return newch
 
-print(decode(enc_flag))
+LIST_FLAG=decode(enc_flag)
+
+flag=""
+
+for l in LIST_FLAG:
+    flag+=l
+
+print(flag)#jU5t_a_s1mpl3_an4gr4m_4_u_c79a21
