@@ -1,5 +1,5 @@
 
-#picoCTF 2021 Transformation Yassine SABIR 
+#picoCTF 2021 Transformation Yassine SABIR id = YsaB
 
 """données :
 ''.join([chr((ord(flag[i]) << 8) + ord(flag[i + 1])) for i in range(0, len(flag), 2)])
