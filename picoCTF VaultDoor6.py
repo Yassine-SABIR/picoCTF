@@ -7,7 +7,7 @@ def hex2int(h):
         return 0
     else:
         L=list("0123456789ABCDEF")
-        return 16*hextoint(h[:-1])+L.index(h[-1].upper())
+        return 16*hex2int(h[:-1])+L.index(h[-1].upper())
 
 def int2bin(n):
     if n==0:
