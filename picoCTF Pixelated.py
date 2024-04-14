@@ -1,5 +1,5 @@
 
-#picoCTF Yassine SABIR 
+#picoCTF Pixelated Yassine SABIR 
 
 import cv2
 import numpy as np
